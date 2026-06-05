@@ -22,7 +22,7 @@ This is a backend application for a voting system where users can vote for candi
 1. Clone the repository:
 
    ```bash
-   git clone https:
+  https://github.com/Rahul70079/Nodejs-voting-api
 
 
 # API Endpoints
