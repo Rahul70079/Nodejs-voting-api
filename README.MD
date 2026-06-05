@@ -20,8 +20,6 @@ This is a backend application for a voting system where users can vote for candi
 ## Installation
 
 1. Clone the repository:
-
-   ```bash
   https://github.com/Rahul70079/Nodejs-voting-api
 
 
