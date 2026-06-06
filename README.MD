@@ -133,8 +133,5 @@ http://localhost:3000
 * Admin Dashboard
 * API Documentation with Swagger
 
-## 👨‍💻 Author
-
-**Rahul Kumar**
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
